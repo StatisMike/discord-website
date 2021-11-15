@@ -1,7 +1,8 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">About</router-link> |
+    <router-link to="/rules">Rules</router-link>
   </div>
   <router-view />
 </template>
@@ -26,5 +27,16 @@
       color: #42b983;
     }
   }
+}
+
+.guide-info {
+  width: 50%;
+}
+
+.guide-info-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 </style>
