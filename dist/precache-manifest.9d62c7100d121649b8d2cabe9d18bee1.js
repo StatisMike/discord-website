@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d1faa1ece5d3397e8ac",
-    "url": "/discord-website/css/app.d41ff8d3.css"
+    "revision": "b48fd03fbc9b87182535",
+    "url": "/discord-website/css/app.bad6033b.css"
   },
   {
     "revision": "ac0420e01f0757490ebf",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/discord-website/img/confirm-rules-checkmark.0ef501fd.png"
   },
   {
-    "revision": "a3e06f7a8e43e9e9f73a12028b4b4653",
+    "revision": "b73de61d96b61d1bb8f2b67f999ebc8a",
     "url": "/discord-website/index.html"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/discord-website/js/about.3ea5b24c.js"
   },
   {
-    "revision": "7d1faa1ece5d3397e8ac",
-    "url": "/discord-website/js/app.b78a5e2e.js"
+    "revision": "b48fd03fbc9b87182535",
+    "url": "/discord-website/js/app.65c668c7.js"
   },
   {
     "revision": "ac0420e01f0757490ebf",
