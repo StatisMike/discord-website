@@ -9,7 +9,7 @@
     <h3>New Member Info</h3>
     <ul>
       <li>
-        <router-link to="/start-here">View All Channels</router-link>
+        <router-link to="/start-here">Access All Channels</router-link>
       </li>
       <li>
         <a

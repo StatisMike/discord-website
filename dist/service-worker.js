@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/discord-website/precache-manifest.c9d984a050750bfb18a28de37fa5afea.js"
+  "/discord-website/precache-manifest.9d62c7100d121649b8d2cabe9d18bee1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "website"});
