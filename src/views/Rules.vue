@@ -1,4 +1,5 @@
 <template>
+  <h2>Server Rules</h2>
   <p>
     1. Familiarize yourself with Discord’s terms of service and follow them at
     all times. https://discordapp.com/terms https://discordapp.com/guidelines
@@ -40,16 +41,17 @@
     but try to keep it at a minimum and programming/data science related. When
     in doubt, ask a @moderator directly or via @ModMail before posting. Note
     that for direct messages, it is up to the members involved to report to the
-    admins. ---------------------------------------- The first offense of these
-    rules will be warned in private. If it happens again within a three month
-    period you will be temporarily muted from the server for 4 days. If it
-    happens a 3rd time within a three month period you will be banned from the
-    server indefinitely. We reserve the right to modify these rules at any given
-    time to better align with the server's goal. If you see anyone breaking
-    these rules, please alert the mod team using @ModMail or ping @moderator or
-    @admin in the channel that the incident occurred. For DM violations, provide
-    the offender's user ID and a screenshot of your conversation in
-    🤬server-concerns or via @ModMail.
+    admins.
+    <br /><br />
+    The first offense of these rules will be warned in private. If it happens
+    again within a three month period you will be temporarily muted from the the
+    the server for 4 days. If it happens a 3rd time within a three month period
+    you will be banned from the server indefinitely. We reserve the right to
+    modify these rules at any given time to better align with the server's goal.
+    If you see anyone breaking these rules, please alert the mod team using
+    @ModMail or ping @moderator or @admin in the channel that the incident
+    occurred. For DM violations, provide the offender's user ID and a screenshot
+    of your conversation in 🤬server-concerns or via @ModMail.
   </p>
 </template>
 <script></script>
