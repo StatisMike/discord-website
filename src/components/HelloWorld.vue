@@ -6,12 +6,10 @@
       please click
       <router-link to="/join">here</router-link>.
     </p>
-    <h3>New Member Guides</h3>
+    <h3>New Member Info</h3>
     <ul>
       <li>
-        <router-link to="/start-here"
-          >View All Channels After Joining</router-link
-        >
+        <router-link to="/start-here">Access All Channels</router-link>
       </li>
       <li>
         <a
